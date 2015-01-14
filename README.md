@@ -3,5 +3,5 @@ test repository
 This is a learning exercise....
 ===============================
 
-and this is some text for the branch #1 flavor
-This should not show up in the master branch
+and this is some text for the master branch
+This should not show up in the branch #1 flavor
